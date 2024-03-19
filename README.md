@@ -1,4 +1,4 @@
-# Berkshire Azure User Group - 2024
+# Berkshire Azure User Group - March 2024
 ### Azure Storage Has Never Been So Cool!
 ***Deploying high-performance, low-latency file storage using Azure NetApp Files***
 
@@ -8,7 +8,7 @@ In this repo you will find the slide-deck used for the presetnation as well as t
 
 ### Prerequisites - What do you need?
 Below is a list of things you will need to complete this lab.
-- An Azure subscription, with credit available, it ain't free :)
+- An Azure subscription, with credit available, it ain't free 😊
 - **Please note** - Not all regions support all ANF features, i.e UK West does not currently support ANF standard network features. Make sure, when you choose which region(s) you are going to be deploying into that those regions support your requirements.
 - The Azure NetApp Files **Resource Provider** registered in your subscription. Link to do that [HERE](https://learn.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-register)
 - Azure CLI installed on your system.
