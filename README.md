@@ -38,7 +38,7 @@ Below is a high-level visual overview of what we are going to deploy into Azure.
 ### Deploying the Lab
 Next, we will go through the steps required to deploy the ANF Lab using Terraform and the code in this repo.
 
-1. Clone the WAUG2023 repo onto your system
+1. Clone the BAUG2024 repo onto your system
 2. Open yout Terminal and browse to the directory where you downloaded the Terraform files
 3. Log in your Azure subscription. Type the command `az login`
 4. If you are working with multiple subscription. Make sure the subscription you wish to use it set to `IsDefault` `true`. You can check this by running the following command `az account list -o table`. If you need to change the default subscription then run the follwing command. `az account set --subscription "Your Subdscription Name"`
